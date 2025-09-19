@@ -60,25 +60,25 @@ layout: default
 <!-- BEGIN_UNITED_STATES_FAQ -->
 ## FAQ
 
-### 美国手机卡/电话卡在哪里买更稳妥？
-建议在市区运营商门店或授权点办理美国手机卡/电话卡（ATT、Airvoice、AmazonGiftCard），携带护照实名登记。行前预开通可联系 ✈ [@esim1088](https://t.me/s/esim1088)。
+### 美国电话卡/手机卡在哪买更靠谱？
+建议在市区运营商门店或授权点办理美国电话卡/手机卡（ATT、Airvoice、AmazonGiftCard），携带护照实名登记。
 
-### 美国电话卡如何实名登记？需要哪些材料？
+### 美国手机卡如何实名登记？需要哪些材料？
 多数门店要求护照登记并拍照，可能需填写住址与联系方式；按当地法规办理，登记后再开通通话/流量套餐。
 
-### 美国手机卡选哪个运营商更适合通话与覆盖？
-市区主流运营商覆盖较稳，偏远山区常见弱或仅2G；如含山区行程，优先覆盖更广的运营商，现场测试语音与数据质量。
+### 美国电话卡选哪个运营商更适合通话和语音清晰度？
+优先选择支持VoLTE且城市核心区覆盖良好的运营商（如：ATT、Airvoice、AmazonGiftCard）；到店先进行拨测与短时通话测试，确认语音清晰后再充值。
 
-### 美国电话卡如何充值与查余额？
+### 美国手机卡如何充值与查余额？
 常见方式有门店/充值卡/官方App/USSD，具体以门店提示为准；充值后重启或切换飞行模式可刷新状态。
 
 ### 美国电话卡能开热点吗？双卡双待可用吗？
 多数套餐支持热点，共享取决于套餐与机型；双卡双待通常可用，次卡上网需在系统里切换默认数据卡。
 
-### 美国是否提供eSIM？与本地电话卡如何选择？
-当地以实体电话卡为主；国际eSIM可作备选但不一定比本地卡稳定经济，建议以实体卡为主，需要远程配置可联系 ✈ [@esim1088](https://t.me/s/esim1088)。
+### 美国是否提供eSIM？与本地手机卡如何选择？
+当地以实体手机卡为主；国际eSIM可作备选但不一定比本地卡稳定经济，建议以实体卡为主。需要远程配置可联系 ✈ [@esim1088](https://t.me/s/esim1088)。
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "美国手机卡/电话卡在哪里买更稳妥？", "acceptedAnswer": {"@type": "Answer", "text": "建议在市区运营商门店或授权点办理美国手机卡/电话卡（ATT、Airvoice、AmazonGiftCard），携带护照实名登记。行前预开通可联系 ✈ @esim1088。"}}, {"@type": "Question", "name": "美国电话卡如何实名登记？需要哪些材料？", "acceptedAnswer": {"@type": "Answer", "text": "多数门店要求护照登记并拍照，可能需填写住址与联系方式；按当地法规办理，登记后再开通通话/流量套餐。"}}, {"@type": "Question", "name": "美国手机卡选哪个运营商更适合通话与覆盖？", "acceptedAnswer": {"@type": "Answer", "text": "市区主流运营商覆盖较稳，偏远山区常见弱或仅2G；如含山区行程，优先覆盖更广的运营商，现场测试语音与数据质量。"}}, {"@type": "Question", "name": "美国电话卡如何充值与查余额？", "acceptedAnswer": {"@type": "Answer", "text": "常见方式有门店/充值卡/官方App/USSD，具体以门店提示为准；充值后重启或切换飞行模式可刷新状态。"}}, {"@type": "Question", "name": "美国电话卡能开热点吗？双卡双待可用吗？", "acceptedAnswer": {"@type": "Answer", "text": "多数套餐支持热点，共享取决于套餐与机型；双卡双待通常可用，次卡上网需在系统里切换默认数据卡。"}}, {"@type": "Question", "name": "美国是否提供eSIM？与本地电话卡如何选择？", "acceptedAnswer": {"@type": "Answer", "text": "当地以实体电话卡为主；国际eSIM可作备选但不一定比本地卡稳定经济，建议以实体卡为主，需要远程配置可联系 ✈ @esim1088。"}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "美国电话卡/手机卡在哪买更靠谱？", "acceptedAnswer": {"@type": "Answer", "text": "建议在市区运营商门店或授权点办理美国电话卡/手机卡（ATT、Airvoice、AmazonGiftCard），携带护照实名登记。"}}, {"@type": "Question", "name": "美国手机卡如何实名登记？需要哪些材料？", "acceptedAnswer": {"@type": "Answer", "text": "多数门店要求护照登记并拍照，可能需填写住址与联系方式；按当地法规办理，登记后再开通通话/流量套餐。"}}, {"@type": "Question", "name": "美国电话卡选哪个运营商更适合通话和语音清晰度？", "acceptedAnswer": {"@type": "Answer", "text": "优先选择支持VoLTE且城市核心区覆盖良好的运营商（如：ATT、Airvoice、AmazonGiftCard）；到店先进行拨测与短时通话测试，确认语音清晰后再充值。"}}, {"@type": "Question", "name": "美国手机卡如何充值与查余额？", "acceptedAnswer": {"@type": "Answer", "text": "常见方式有门店/充值卡/官方App/USSD，具体以门店提示为准；充值后重启或切换飞行模式可刷新状态。"}}, {"@type": "Question", "name": "美国电话卡能开热点吗？双卡双待可用吗？", "acceptedAnswer": {"@type": "Answer", "text": "多数套餐支持热点，共享取决于套餐与机型；双卡双待通常可用，次卡上网需在系统里切换默认数据卡。"}}, {"@type": "Question", "name": "美国是否提供eSIM？与本地手机卡如何选择？", "acceptedAnswer": {"@type": "Answer", "text": "当地以实体手机卡为主；国际eSIM可作备选但不一定比本地卡稳定经济，建议以实体卡为主。需要远程配置可联系 ✈ @esim1088。"}}]}
 </script>
 <!-- END_UNITED_STATES_FAQ -->
